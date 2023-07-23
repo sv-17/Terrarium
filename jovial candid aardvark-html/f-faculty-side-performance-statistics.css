@@ -1,0 +1,848 @@
+.-faculty-side-performance-statistics-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.-faculty-side-performance-statistics-container01 {
+  top: 96px;
+  left: 0px;
+  width: 100%;
+  height: 649px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  scroll-behavior: auto;
+}
+.-faculty-side-performance-statistics-container02 {
+  width: 97%;
+  height: 35px;
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  align-items: flex-start;
+}
+.-faculty-side-performance-statistics-text {
+  height: 100%;
+  font-size: 28px;
+  font-style: normal;
+  font-family: Titillium Web;
+  font-weight: 700;
+  margin-left: var(--dl-space-space-threeunits);
+}
+.-faculty-side-performance-statistics-select {
+  top: 0px;
+  left: 43%;
+  width: var(--dl-size-size-xlarge);
+  height: 100%;
+  position: absolute;
+  font-family: Titillium Web;
+  padding-left: var(--dl-space-space-halfunit);
+  border-radius: var(--dl-radius-radius-radius8);
+  background-color: #bdbdbd;
+}
+.-faculty-side-performance-statistics-select1 {
+  top: 0px;
+  left: 27%;
+  width: var(--dl-size-size-xlarge);
+  height: 100%;
+  position: absolute;
+  font-size: 16px;
+  font-family: Titillium Web;
+  font-weight: 400;
+  line-height: 1.15;
+  padding-left: var(--dl-space-space-halfunit);
+  border-radius: var(--dl-radius-radius-radius8);
+  text-transform: none;
+  text-decoration: none;
+  background-color: #bdbdbd;
+}
+.-faculty-side-performance-statistics-button {
+  top: 0px;
+  color: #ffffff;
+  right: 0px;
+  width: var(--dl-size-size-xlarge);
+  height: 100%;
+  position: absolute;
+  text-align: center;
+  font-family: Titillium Web;
+  padding-top: 6px;
+  border-width: 0px;
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-bottom: 10PX;
+  background-color: #061560;
+}
+.-faculty-side-performance-statistics-container03 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 88%;
+  display: flex;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-threeunits);
+  margin-bottom: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-container04 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  align-items: flex-start;
+}
+.-faculty-side-performance-statistics-container05 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text01 {
+  color: rgb(255, 255, 255);
+  height: 40px;
+  font-size: 20px;
+  font-family: Titillium Web;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: var(--dl-space-space-unit);
+  background-color: rgb(89, 89, 89);
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 16px;
+}
+.-faculty-side-performance-statistics-container06 {
+  top: var(--dl-space-space-fourunits);
+  flex: 0 0 auto;
+  left: 0px;
+  width: 592px;
+  height: 181px;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  background-color: #061560;
+  border-top-left-radius: 0;
+  border-top-right-radius: 16px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 16px;
+}
+.-faculty-side-performance-statistics-container07 {
+  width: 100%;
+  height: 49px;
+  display: flex;
+  align-items: flex-start;
+}
+.-faculty-side-performance-statistics-container08 {
+  flex: 0 0 auto;
+  width: 70%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text02 {
+  color: #ffffff;
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  font-family: Titillium Web;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.-faculty-side-performance-statistics-container09 {
+  flex: 0 0 auto;
+  width: 30%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text03 {
+  color: #ffffff;
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  text-align: right;
+  font-family: Titillium Web;
+  padding-top: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-threeunits);
+}
+.-faculty-side-performance-statistics-container10 {
+  width: 100%;
+  height: 49px;
+  display: flex;
+  align-items: flex-start;
+}
+.-faculty-side-performance-statistics-container11 {
+  flex: 0 0 auto;
+  width: 70%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text04 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  font-family: Titillium Web;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.-faculty-side-performance-statistics-container12 {
+  flex: 0 0 auto;
+  width: 30%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text05 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 20px;
+  text-align: right;
+  font-family: Titillium Web;
+  padding-top: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-threeunits);
+}
+.-faculty-side-performance-statistics-container13 {
+  width: 100%;
+  height: 49px;
+  display: flex;
+  align-items: flex-start;
+}
+.-faculty-side-performance-statistics-container14 {
+  flex: 0 0 auto;
+  width: 70%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text06 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  font-family: Titillium Web;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.-faculty-side-performance-statistics-container15 {
+  flex: 0 0 auto;
+  width: 30%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text07 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  text-align: right;
+  font-family: Titillium Web;
+  padding-top: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-threeunits);
+}
+.-faculty-side-performance-statistics-container16 {
+  width: 100%;
+  height: 49px;
+  display: flex;
+  align-items: flex-start;
+}
+.-faculty-side-performance-statistics-container17 {
+  flex: 0 0 auto;
+  width: 70%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text08 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  font-family: Titillium Web;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.-faculty-side-performance-statistics-container18 {
+  flex: 0 0 auto;
+  width: 30%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text09 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  text-align: right;
+  font-family: Titillium Web;
+  padding-top: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-threeunits);
+}
+.-faculty-side-performance-statistics-text10 {
+  color: rgb(255, 255, 255);
+  height: 40px;
+  font-size: 20px;
+  font-family: Titillium Web;
+  margin-left: var(--dl-space-space-fourunits);
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: var(--dl-space-space-unit);
+  background-color: rgb(89, 89, 89);
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+.-faculty-side-performance-statistics-container19 {
+  top: 60%;
+  flex: 0 0 auto;
+  left: 0px;
+  width: 20%;
+  height: 173px;
+  display: flex;
+  overflow: auto;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  background-color: #061560;
+  border-top-left-radius: 0;
+  border-top-right-radius: 16px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 16px;
+}
+.-faculty-side-performance-statistics-text11 {
+  color: var(--dl-color-gray-white);
+  width: 100%;
+  height: 40px;
+  font-size: 18px;
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: Titillium Web;
+  padding-top: 10px;
+  padding-left: var(--dl-space-space-twounits);
+  padding-bottom: 10px;
+}
+.-faculty-side-performance-statistics-text12 {
+  color: var(--dl-color-gray-white);
+  width: 100%;
+  height: 40px;
+  font-size: 18px;
+  font-family: Titillium Web;
+  padding-top: 10px;
+  padding-left: var(--dl-space-space-twounits);
+  padding-bottom: 10px;
+}
+.-faculty-side-performance-statistics-text13 {
+  top: 53%;
+  left: 0px;
+  position: absolute;
+  font-size: 20px;
+  font-style: normal;
+  font-family: Titillium Web;
+  font-weight: 700;
+  padding-left: var(--dl-space-space-unit);
+}
+.-faculty-side-performance-statistics-button1 {
+  top: 70%;
+  left: 370px;
+  color: rgb(255, 255, 255);
+  width: var(--dl-size-size-xlarge);
+  position: absolute;
+  text-align: center;
+  font-family: Titillium Web;
+  border-width: 0px;
+  border-radius: var(--dl-radius-radius-radius8);
+  background-color: rgb(86, 106, 211);
+}
+.-faculty-side-performance-statistics-navlink {
+  top: 80%;
+  left: 370px;
+  color: rgb(255, 255, 255);
+  width: var(--dl-size-size-xlarge);
+  position: absolute;
+  text-align: center;
+  font-family: Titillium Web;
+  border-width: 0px;
+  border-radius: var(--dl-radius-radius-radius8);
+  text-decoration: none;
+  background-color: rgb(86, 106, 211);
+}
+.-faculty-side-performance-statistics-container20 {
+  flex: 0 0 auto;
+  left: 740px;
+  width: 554px;
+  bottom: 0px;
+  height: 120px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  background-color: #3a3297;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.-faculty-side-performance-statistics-container21 {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  align-items: flex-start;
+}
+.-faculty-side-performance-statistics-container22 {
+  flex: 0 0 auto;
+  width: 55%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text14 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  font-family: Titillium Web;
+  padding-top: 14px;
+  padding-left: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: 14px;
+}
+.-faculty-side-performance-statistics-container23 {
+  flex: 0 0 auto;
+  width: 5%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text15 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  font-family: Titillium Web;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+.-faculty-side-performance-statistics-container24 {
+  flex: 0 0 auto;
+  width: 40%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text16 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  align-self: center;
+  text-align: right;
+  font-family: Titillium Web;
+  padding-top: 14px;
+  padding-right: var(--dl-space-space-sixunits);
+  padding-bottom: 14px;
+}
+.-faculty-side-performance-statistics-container25 {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  align-items: flex-start;
+}
+.-faculty-side-performance-statistics-container26 {
+  flex: 0 0 auto;
+  width: 55%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text17 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  font-family: Titillium Web;
+  padding-top: 14px;
+  padding-left: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: 14px;
+}
+.-faculty-side-performance-statistics-container27 {
+  flex: 0 0 auto;
+  width: 5%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text18 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  font-family: Titillium Web;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+.-faculty-side-performance-statistics-container28 {
+  flex: 0 0 auto;
+  width: 40%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text19 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  align-self: center;
+  text-align: right;
+  font-family: Titillium Web;
+  padding-top: 14px;
+  padding-right: var(--dl-space-space-sixunits);
+  padding-bottom: 14px;
+}
+.-faculty-side-performance-statistics-container29 {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  align-items: flex-start;
+}
+.-faculty-side-performance-statistics-container30 {
+  flex: 0 0 auto;
+  width: 55%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text20 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  font-family: Titillium Web;
+  padding-top: 14px;
+  padding-left: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: 14px;
+}
+.-faculty-side-performance-statistics-container31 {
+  flex: 0 0 auto;
+  width: 5%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text21 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  font-family: Titillium Web;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+.-faculty-side-performance-statistics-container32 {
+  flex: 0 0 auto;
+  width: 40%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-faculty-side-performance-statistics-text22 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  align-self: center;
+  text-align: right;
+  font-family: Titillium Web;
+  padding-top: 14px;
+  padding-right: var(--dl-space-space-sixunits);
+  padding-bottom: 14px;
+}
+.-faculty-side-performance-statistics-container33 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 45%;
+  right: 281px;
+  width: 50%;
+  height: 360px;
+  display: flex;
+  position: absolute;
+  margin-top: var(--dl-space-space-unit);
+  align-items: flex-start;
+}
+.-faculty-side-performance-statistics-navbar-interactive {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 96px;
+  display: flex;
+  z-index: 1;
+  position: fixed;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+  background-image: linear-gradient(90deg, rgb(189, 195, 199) 0.00%,rgb(58, 50, 151) 100.00%);
+}
+.-faculty-side-performance-statistics-logo {
+  height: 2rem;
+}
+.-faculty-side-performance-statistics-desktop-menu {
+  display: flex;
+}
+.-faculty-side-performance-statistics-thq-dropdown {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+.-faculty-side-performance-statistics-dropdown-toggle {
+  fill: #595959;
+  color: #595959;
+  width: 100%;
+  display: inline-flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius2);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.-faculty-side-performance-statistics-text23 {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  font-family: Titillium Web;
+  font-weight: 500;
+  margin-right: 4px;
+  vertical-align: middle;
+}
+.-faculty-side-performance-statistics-image {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  margin-left: var(--dl-space-space-unit);
+}
+.-faculty-side-performance-statistics-dropdown-list {
+  left: 0%;
+  width: max-content;
+  display: none;
+  z-index: 200;
+  position: absolute;
+  min-width: 100%;
+  transition: 0.3s;
+  align-items: stretch;
+  border-color: #D9D9D9;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  list-style-type: none;
+  background-color: var(--dl-color-gray-white);
+  list-style-position: inside;
+}
+.-faculty-side-performance-statistics-dropdown {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+.-faculty-side-performance-statistics-dropdown-toggle1 {
+  fill: #595959;
+  color: #595959;
+  width: 100%;
+  display: inline-flex;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  text-decoration: none;
+}
+.-faculty-side-performance-statistics-dropdown-toggle1:hover {
+  fill: #fff;
+  color: #fff;
+  background-color: #595959;
+}
+.-faculty-side-performance-statistics-text24 {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  font-style: normal;
+  font-family: Titillium Web;
+  font-weight: 500;
+}
+.-faculty-side-performance-statistics-dropdown1 {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+.-faculty-side-performance-statistics-dropdown-toggle2 {
+  fill: #595959;
+  color: #595959;
+  width: 100%;
+  display: inline-flex;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  text-decoration: none;
+}
+.-faculty-side-performance-statistics-dropdown-toggle2:hover {
+  fill: #fff;
+  color: #fff;
+  background-color: #595959;
+}
+.-faculty-side-performance-statistics-text25 {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  font-style: normal;
+  font-family: Titillium Web;
+  font-weight: 500;
+}
+.-faculty-side-performance-statistics-dropdown2 {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+.-faculty-side-performance-statistics-dropdown-toggle3 {
+  fill: #595959;
+  color: #595959;
+  width: 100%;
+  display: inline-flex;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  text-decoration: none;
+}
+.-faculty-side-performance-statistics-dropdown-toggle3:hover {
+  fill: #fff;
+  color: #fff;
+  background-color: #595959;
+}
+.-faculty-side-performance-statistics-text26 {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  font-style: normal;
+  font-family: Titillium Web;
+  font-weight: 500;
+}
+.-faculty-side-performance-statistics-burger-menu {
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+.-faculty-side-performance-statistics-icon {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.-faculty-side-performance-statistics-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: 32px;
+  z-index: 100;
+  position: fixed;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.-faculty-side-performance-statistics-icon-group {
+  display: flex;
+}
+.-faculty-side-performance-statistics-icon2 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.-faculty-side-performance-statistics-icon4 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.-faculty-side-performance-statistics-icon6 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+@media(max-width: 767px) {
+  .-faculty-side-performance-statistics-navbar-interactive {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .-faculty-side-performance-statistics-desktop-menu {
+    display: none;
+  }
+  .-faculty-side-performance-statistics-burger-menu {
+    display: flex;
+  }
+}
+@media(max-width: 479px) {
+  .-faculty-side-performance-statistics-navbar-interactive {
+    padding: var(--dl-space-space-unit);
+  }
+  .-faculty-side-performance-statistics-mobile-menu {
+    padding: 16px;
+  }
+}
